@@ -2,7 +2,7 @@
 <b><u>note</u></b>: to run this code you MUST include _**biuoop-1.4.jar**_ to your project for GUI Support.
 
 ***
-Introduction to OOP in JAVA and using GUI 
+Introduction to OOP in JAVA and GUI 
 ## AbstractArtDrawing.java
 draw 10 random lines , the middle point in each line indicated in blue , while intersection points between two lines are indicated in red.
 
